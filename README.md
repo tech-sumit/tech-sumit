@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Aman Kumar Dewangan a.k.a AkD!](https://github.com/mr-shitij)
+# Hey Everyone! I'm [Shitij Agrawal](https://github.com/mr-shitij)
 <br><br>
 <!--
 <a href="https://twitter.com/mr-shitij">
