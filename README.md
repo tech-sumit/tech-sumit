@@ -9,7 +9,6 @@
 <a href="https://www.youtube.com/channel/UCmB15ucG8XbYn-T5ToC-C_g">
   <img align="left" alt="Shitij Agrawal's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
-<br
 ![](https://raw.githubusercontent.com/mr-shitij/mr-shitij/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> | Full Stack Developer | Systems Architect | VR Developer | IoT | Crypto & Blockchain | Robotics | Space Enthusiast | Cybersecurity Enthusiast | Drone Tech | </samp></h4></p>
