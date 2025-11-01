@@ -2,7 +2,7 @@
 
 <br><br>
 <a href="https://www.linkedin.com/mwlite/in/agrawal-sumit">
-  <img align="left" alt="Shitij Agrawal's LinkdeIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" alt="Sumit Agrawal's LinkdeIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/tech-sumit">
   <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
@@ -17,9 +17,8 @@
   <br>
 
 - ⚡ <samp><b>Software developer & Tech enthusiast</b>
-- 💼 <samp><b>Working with Spenmo Tehnologies YC 2020</b>
-- 🧑🏽 <samp><b>1X startup founder - Profusion Tech</b>
-- 👨‍🎓 <samp>BE Computer Science & Engineering from R. C. Patel Institute of Technology, Shirpur
+- 💼 <samp><b>Working with Careem 2025</b>
+- 🧑🏽 <samp><b>3X startup founder - Profusion Tech, Shailka Systems, Pixpoc.AI</b>
 </div>
 
 ##
